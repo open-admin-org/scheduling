@@ -1,7 +1,13 @@
 Scheduling task manager for laravel-admin
 ============================
 
-[![StyleCI](https://styleci.io/repos/99676857/shield?branch=master)](https://styleci.io/repos/99676857)
+[![StyleCI](https://styleci.io/repos/457982378/shield?branch=main)](https://styleci.io/repos/457982378)
+[![Packagist](https://img.shields.io/github/license/open-admin-org/scheduling.svg?maxAge=2592000&style=flat-square&color=brightgreen)](https://packagist.org/packages/open-admin-ext/scheduling)
+[![Total Downloads](https://img.shields.io/packagist/dt/open-admin-ext/scheduling.svg?style=flat-square&color=brightgreen)](https://packagist.org/packages/open-admin-admin-ext/scheduling)
+[![Pull request welcome](https://img.shields.io/badge/pr-welcome-green.svg?style=flat-square&color=brightgreen)]()
+
+
+[![StyleCI](https://styleci.io/repos/457982378/shield?branch=master)](https://styleci.io/repos/99676857)
 [![Packagist](https://img.shields.io/packagist/l/laravel-admin-ext/scheduling.svg?maxAge=2592000)](https://packagist.org/packages/laravel-admin-ext/scheduling)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-admin-ext/scheduling.svg?style=flat-square)](https://packagist.org/packages/laravel-admin-ext/scheduling)
 [![Pull request welcome](https://img.shields.io/badge/pr-welcome-green.svg?style=flat-square)]()
