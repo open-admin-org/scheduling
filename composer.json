@@ -1,0 +1,35 @@
+{
+    "name": "open-admin-ext/scheduling",
+    "description": "Task scheduling extension for open-admin",
+    "type": "library",
+    "keywords": ["open-admin", "task", "Scheduling"],
+    "homepage": "https://github.com/open-admin-org/scheduling",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "open-admin",
+            "email": "info@open-admin.org"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "open-admin-org/open-admin": "~1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0",
+        "laravel/laravel": "~5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "OpenAdmin\\Admin\\Scheduling\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OpenAdmin\\Admin\\Scheduling\\SchedulingServiceProvider"
+            ]
+
+        }
+    }
+}
