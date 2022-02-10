@@ -2,9 +2,9 @@
 
 namespace OpenAdmin\Admin\Scheduling;
 
+use Illuminate\Http\Request;
 use OpenAdmin\Admin\Facades\Admin;
 use OpenAdmin\Admin\Layout\Content;
-use Illuminate\Http\Request;
 
 class SchedulingController
 {
