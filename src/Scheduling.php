@@ -2,15 +2,10 @@
 
 namespace OpenAdmin\Admin\Scheduling;
 
-use OpenAdmin\Admin\Admin;
-use OpenAdmin\Admin\Extension;
 use Illuminate\Console\Scheduling\CallbackEvent;
 use Illuminate\Support\Str;
-use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Facades\Artisan;
-use Symfony\Component\Process\PhpExecutableFinder;
-
-;
+use OpenAdmin\Admin\Admin;
+use OpenAdmin\Admin\Extension;
 
 class Scheduling extends Extension
 {
