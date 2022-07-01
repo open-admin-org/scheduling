@@ -1,4 +1,4 @@
-Scheduling task manager for laravel-admin
+Scheduling task manager for open-admin
 ============================
 
 [![StyleCI](https://styleci.io/repos/457982378/shield?branch=main)](https://styleci.io/repos/457982378)

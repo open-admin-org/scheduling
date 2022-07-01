@@ -153,7 +153,7 @@ class Scheduling extends Extension
     }
 
     /**
-     * Register routes for laravel-admin.
+     * Register routes for open-admin.
      *
      * @return void
      */
